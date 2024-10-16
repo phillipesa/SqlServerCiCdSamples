@@ -16,8 +16,7 @@ Implements continuous deploy and delivery for sql server
 * [.NET Foundation](#net-foundation)
 * [License](#license)
 
-This repo contains the code to build the .NET runtime, libraries and shared host (`dotnet`) installers for
-all supported platforms, as well as the sources to .NET runtime and libraries.
+This repo contains the code to Implements continuous deploy and delivery for sql server using sql server project in Visual Studio
 
 ## What is .NET?
 
